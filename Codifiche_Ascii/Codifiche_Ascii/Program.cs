@@ -16,5 +16,5 @@ for (int i = 0; i < 128; i++)
     Console.WriteLine("Carattere numero " + i + ": " + c); //stampa a video dei caratteri
 }
 
-Console.WriteLine("Premi un tasto per chiudere il programma");
+Console.WriteLine("Premi due tasti per chiudere il programma");
 Console.ReadKey();

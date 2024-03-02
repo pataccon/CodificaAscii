@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgio.salutini\\Desktop\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {}
+    "Z:\\TPSIT\\Git\\CodificaAscii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgio.salutini\\Desktop\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {
+    "Z:\\TPSIT\\Git\\CodificaAscii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgio.salutini\\Desktop\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
+        "projectUniqueName": "Z:\\TPSIT\\Git\\CodificaAscii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
         "projectName": "Codifiche_Ascii",
-        "projectPath": "C:\\Users\\giorgio.salutini\\Desktop\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
-        "packagesPath": "C:\\Users\\giorgio.salutini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgio.salutini\\Desktop\\Codifiche_Ascii\\Codifiche_Ascii\\obj\\",
+        "projectPath": "Z:\\TPSIT\\Git\\CodificaAscii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
+        "packagesPath": "C:\\Users\\daniele.sbrighi\\.nuget\\packages\\",
+        "outputPath": "Z:\\TPSIT\\Git\\CodificaAscii\\Codifiche_Ascii\\Codifiche_Ascii\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\giorgio.salutini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daniele.sbrighi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.313\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }
